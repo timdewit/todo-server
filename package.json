@@ -1,0 +1,23 @@
+{
+  "name": "todo-server",
+  "version": "1.0.0",
+  "description": "A server with Express/Socket.io that handles a todo list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timdewit/todo-server.git"
+  },
+  "author": "Tim de Wit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timdewit/todo-server/issues"
+  },
+  "homepage": "https://github.com/timdewit/todo-server#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
+  }
+}
